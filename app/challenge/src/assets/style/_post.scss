@@ -1,0 +1,47 @@
+.postBox {
+    background-color: #F1F6FB;
+  margin-bottom: 1%;
+  padding: 1%;
+}
+
+.postTitle{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
+.votesCoounter {
+
+  margin: 0px;
+  border:1px solid #1b5faa;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  border-radius: 50%;
+  font-size: large;
+  margin-left: 3%;
+ 
+  right: 50%;
+}
+.postDescription{
+    text-align: center;
+    font-size: large;
+    padding: 1%;
+}
+.btnGroup{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.btnPost{
+    margin-right: 5%;
+   
+   
+}
+
+.btnSize{
+    width: 25%;
+    font-weight: bold;
+    color: black;
+}
