@@ -7,11 +7,11 @@ Chek if you have the node.js^10.16.0 -> To Dowload [Node.Js Site](https://nodejs
 
 
 ## Libraries: 
-1- Axios: http request.
-2- Jest and Enxyme: unit tests.
-3- React Redux, Redux end Redux Saga:  manipulate application states and flows.
-4- Material UI.
-5- Saas.
+1- Axios <br/>
+2- Jest and Enzyme<br/>
+3- React Redux Redux end Redux Saga:  .<br/>
+4- Material UI<br/>
+5- Saas<br/>
 
 
 
