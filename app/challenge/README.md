@@ -13,18 +13,6 @@ Chek if you have the node.js^10.16.0 -> To Dowload [Node.Js Site](https://nodejs
 4- Material UI.
 5- Saas.
 
-## PROJECT STRUCTURE
-|-\public </br>
-|-\src</br>
-|-app.js</br>
-|---\test</br>
-|---\assets</br>
-|---\component</br>
-|---\store</br>
-|-----\actions</br>
-|-----\store</br>
-|-----\reducers</br>
-|
 
 
 ## Available Scripts
